@@ -1,0 +1,7 @@
+{
+  "name": "peetya/test-module-2",
+  "version": "0.0.1",
+  "require": {
+    "eloquent/composer-npm-bridge": "^4.0"
+  }
+}

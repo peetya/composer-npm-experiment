@@ -1,0 +1,18 @@
+{
+  "name": "peetya/root-module",
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../test-module-1"
+    },
+    {
+      "type": "path",
+      "url": "../test-module-2"
+    }
+  ],
+  "require": {
+    "peetya/test-module-1": "^0.0.1",
+    "peetya/test-module-2": "^0.0.1",
+    "eloquent/composer-npm-bridge": "^4.0"
+  }
+}

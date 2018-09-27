@@ -1,0 +1,17 @@
+{
+  "name": "root-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "to-pascal-case": "^1.0.0"
+  },
+  "devDependencies": {
+    "to-snake-case": "^1.0.0"
+  }
+}

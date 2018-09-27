@@ -1,0 +1,17 @@
+{
+  "name": "test-module-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "array-swap": "0.0.4"
+  },
+  "dependencies": {
+    "array-range": "^1.0.1"
+  }
+}
